@@ -1,6 +1,7 @@
-- 👋 Hi, I’m 馀灰
+- 👋 Hi, I’m Yuhui
+- ✨ I'm from China
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning SpringBoot
+- 🌱 I’m currently learning SpringCloud
 - 📫 My WeChat is yuhui343818
 
 <!---
