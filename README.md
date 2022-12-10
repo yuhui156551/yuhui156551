@@ -2,7 +2,7 @@
 - ✨ I'm from China
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning SpringCloud
-- 📫 My WeChat is yuhui343818
+- 📫 My QQ is 536430462
 
 <!---
 yuhui156551/yuhui156551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
