@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuhui
 - ✨ I'm from China
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning SpringCloud
+- 🌱 I’m currently learning SpringBoot
 - 📫 My QQ is 536430462
 
 <!---
