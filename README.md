@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuhui
 - ✨ I'm from China
-- 👀 I’m interested in Java
+- 👀 I started learning java on September 22, 2022
 - 🌱 I’m currently learning SpringBoot
 - 📫 My QQ is 536430462
 
